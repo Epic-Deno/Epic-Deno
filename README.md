@@ -37,5 +37,15 @@ Now I'm  a web frontend developer. -->
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-[![Epic-Deno's github stats](https://github-readme-stats.vercel.app/api?username=Epic-Deno)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Epic-Deno's github stats](https://github-readme-stats.vercel.app/api?username=Epic-Deno)](https://github.com/anuraghazra/github-readme-stats) -->
 
+##### GitHub Stats
+
+<div align="center">
+    <a href="https://github.com/Epic-Deno">
+        <img align="left" src="https://github-readme-stats.vercel.app/api?username=Epic-Deno&show_icons=truee&include_all_commits=true&theme=onedark&hide=prs" alt="Epic-Deno's github stats"/>
+    </a>
+    <a href="https://github.com/Epic-Deno">
+        <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Epic-Deno&layout=compact&show_icons=truee&include_all_commits=true&theme=onedark&card_width=230" alt="Epic-Deno's github stats"/>
+    </a>
+</div>
