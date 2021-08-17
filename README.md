@@ -10,6 +10,7 @@
 <!-- 
 Now I'm  a web frontend developer. -->
 ##### I'm proud of to be a web frontend developer, and I love any kind of frontend technology.
+![profile views](https://komarev.com/ghpvc/?username=Epic-Deno&style=plastic)
 
 [![](https://img.shields.io/badge/-乐观开朗的逍遥子-E6162D?style=flat-square&labelColor=9D1620&logo=Sina-Weibo&logoColor=white)](https://weibo.com/ZZandBB?is_all=1#_loginLayer_1629041370172)
 [![](https://img.shields.io/badge/-Pony-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/Ponyzz2)
