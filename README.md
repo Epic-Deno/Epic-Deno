@@ -1,8 +1,13 @@
 ### Hi there,I'm Pony👏
 
-<a href="https://github.com/Epic-Deno">
+<!-- <a href="https://github.com/Epic-Deno">
     <div align="right" >
         <img align="right" src="https://count.getloli.com/get/@:Pony" alt="Pony" />
+    </div>
+</a> -->
+<a href="https://github.com/Epic-Deno">
+    <div align="right">
+        <img align="right" src="./images/Eva_me.png" alt="Pony" width="400" height="200" />
     </div>
 </a>
 
@@ -20,12 +25,6 @@ Now I'm  a web frontend developer. -->
 
 -   🦄️  Read more about my [Blog](https://epic-deno.github.io/deno.github.io/)
 -   📱  Follow me on [掘金](https://juejin.cn/user/1151943917713623) , [CSDN](https://blog.csdn.net/qq_44094909?spm=1010.2135.3001.5343&type=lately) , [Twitter](https://twitter.com/Ponyzz2) or [weibo](https://weibo.com/ZZandBB?is_all=1#_loginLayer_1629041370172)
-
-<a href="https://github.com/Epic-Deno">
-    <div align="center" style="margin-bottom: 6px">
-        <img align="center" src="./images/Eva_me.png" alt="Pony" />
-    </div>
-</a>
 
 **languages and Tools**
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
