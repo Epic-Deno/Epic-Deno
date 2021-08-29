@@ -22,7 +22,7 @@ Now I'm  a web frontend developer. -->
 -   📱  Follow me on [掘金](https://juejin.cn/user/1151943917713623) , [CSDN](https://blog.csdn.net/qq_44094909?spm=1010.2135.3001.5343&type=lately) , [Twitter](https://twitter.com/Ponyzz2) or [weibo](https://weibo.com/ZZandBB?is_all=1#_loginLayer_1629041370172)
 
 <a href="https://github.com/Epic-Deno">
-    <div align="center" >
+    <div align="center" style="margin-bottom: 6px">
         <img align="center" src="./images/Eva_me.png" alt="Pony" />
     </div>
 </a>
