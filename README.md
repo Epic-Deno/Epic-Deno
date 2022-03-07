@@ -55,3 +55,13 @@ Now I'm  a web frontend developer. -->
         <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Epic-Deno&layout=compact&show_icons=truee&include_all_commits=true&theme=onedark&card_width=230" alt="Epic-Deno's github stats"/>
     </a>
 </div>
+
+
+
+####  Join My Technology Community  
+
+<div align="center">
+ <a href="https://github.com/Epic-Deno">
+        <img align="left" src="./images/qrcode.JPG" alt="知识星球"/>
+    </a>
+</div>
