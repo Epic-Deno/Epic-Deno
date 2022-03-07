@@ -45,6 +45,14 @@ Now I'm  a web frontend developer. -->
 
 <!-- [![Epic-Deno's github stats](https://github-readme-stats.vercel.app/api?username=Epic-Deno)](https://github.com/anuraghazra/github-readme-stats) -->
 
+####  Join My Technology Community  
+
+<div align="center">
+ <a href="https://github.com/Epic-Deno">
+        <img align="left" src="./images/qrcode.JPG" alt="知识星球"/>
+    </a>
+</div>
+
 ##### GitHub Stats
 
 <div align="center">
@@ -58,10 +66,3 @@ Now I'm  a web frontend developer. -->
 
 
 
-####  Join My Technology Community  
-
-<div align="center">
- <a href="https://github.com/Epic-Deno">
-        <img align="left" src="./images/qrcode.JPG" alt="知识星球"/>
-    </a>
-</div>
