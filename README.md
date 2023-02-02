@@ -17,7 +17,7 @@ Now I'm  a web frontend developer. -->
 ##### I'm proud of to be a web frontend developer, and I love any kind of frontend technology.
 ![profile views](https://komarev.com/ghpvc/?username=Epic-Deno&style=plastic)
 
-[![](https://img.shields.io/badge/-乐观开朗的逍遥子-E6162D?style=flat-square&labelColor=9D1620&logo=Sina-Weibo&logoColor=white)](https://weibo.com/ZZandBB?is_all=1#_loginLayer_1629041370172)
+<!-- [![](https://img.shields.io/badge/-乐观开朗的逍遥子-E6162D?style=flat-square&labelColor=9D1620&logo=Sina-Weibo&logoColor=white)](https://weibo.com/ZZandBB?is_all=1#_loginLayer_1629041370172) -->
 [![](https://img.shields.io/badge/-Pony-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/Ponyzz2)
 [![](https://img.shields.io/badge/掘金-blue?style=flat-square)](https://juejin.cn/user/1151943917713623)
 [![](https://img.shields.io/badge/-CSDN-FF3C00?style=flat-square)](https://blog.csdn.net/qq_44094909?spm=1010.2135.3001.5343&type=lately)
@@ -45,14 +45,6 @@ Now I'm  a web frontend developer. -->
 
 <!-- [![Epic-Deno's github stats](https://github-readme-stats.vercel.app/api?username=Epic-Deno)](https://github.com/anuraghazra/github-readme-stats) -->
 
-####  Join My Technology Community  
-
-<div align="center">
- <a href="https://github.com/Epic-Deno">
-        <img align="left" src="./images/qrcode.JPG" alt="知识星球"/>
-    </a>
-</div>
-
 ##### GitHub Stats
 
 <div align="center">
@@ -63,6 +55,25 @@ Now I'm  a web frontend developer. -->
         <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Epic-Deno&layout=compact&show_icons=truee&include_all_commits=true&theme=onedark&card_width=230" alt="Epic-Deno's github stats"/>
     </a>
 </div>
+
+
+####  Buy me a coffee 
+
+<div align="center">
+ <a href="https://github.com/Epic-Deno">
+        <img align="left" width="140" src="./images/aliPay.JPG" alt="支付宝"/>
+    </a>
+    <a href="https://github.com/Epic-Deno">
+        <img align="left" width="140" src="./images/wechatPay.JPG" alt="微信支付"/>
+    </a>
+    <a href="https://github.com/Epic-Deno">
+        <img align="left" width="140" src="./images/zhishi.JPG" alt="知识星球"/>
+    </a>
+</div>
+
+<br/>
+
+
 
 
 
