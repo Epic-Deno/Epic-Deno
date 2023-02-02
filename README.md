@@ -19,6 +19,7 @@ Now I'm  a web frontend developer. -->
 
 <!-- [![](https://img.shields.io/badge/-乐观开朗的逍遥子-E6162D?style=flat-square&labelColor=9D1620&logo=Sina-Weibo&logoColor=white)](https://weibo.com/ZZandBB?is_all=1#_loginLayer_1629041370172) -->
 [![](https://img.shields.io/badge/-Pony-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/Ponyzz2)
+[![公众号](https://img.shields.io/badge/公众号-泼尼的代码之旅-%23323031?style=flat&labelColor=323031)](https://mp.weixin.qq.com/s/oVZCt59ukkFu4PWEKr9yQg)
 [![](https://img.shields.io/badge/掘金-blue?style=flat-square)](https://juejin.cn/user/1151943917713623)
 [![](https://img.shields.io/badge/-CSDN-FF3C00?style=flat-square)](https://blog.csdn.net/qq_44094909?spm=1010.2135.3001.5343&type=lately)
 [![](https://img.shields.io/badge/-知乎-fff?style=flat-square&logo=Zhihu&labelColor=ffffff&color=fff)](https://www.zhihu.com/people/zhang-zhen-36-44)
@@ -44,26 +45,29 @@ Now I'm  a web frontend developer. -->
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 <!-- [![Epic-Deno's github stats](https://github-readme-stats.vercel.app/api?username=Epic-Deno)](https://github.com/anuraghazra/github-readme-stats) -->
-
-<details>
-    <summary>🌟 GitHub Stats</summary>
-     <img align="left" src="https://github-readme-stats.vercel.app/api?username=Epic-Deno&show_icons=truee&include_all_commits=true&theme=onedark&hide=prs" alt="Epic-Deno's github stats"/>
-     <br/>
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Epic-Deno&layout=compact&show_icons=truee&include_all_commits=true&theme=onedark&card_width=230" alt="Epic-Deno's github stats"/>
-</details>
-
 <br/>
 
 <img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" style="height: 40px !important;width: 145px !important;"/>
 
-<div align="center">
+<div>
  <a href="https://github.com/Epic-Deno">
-        <img align="left" width="140" src="./images/aliPay.JPG" alt="支付宝"/>
+        <img width="140" src="./images/aliPay.JPG" alt="支付宝"/>
     </a>
     <a href="https://github.com/Epic-Deno">
-        <img align="left" width="140" src="./images/wechatPay.JPG" alt="微信支付"/>
+        <img width="140" src="./images/wechatPay.JPG" alt="微信支付"/>
     </a>
     <a href="https://github.com/Epic-Deno">
-        <img align="left" width="140" src="./images/zhishi.JPG" alt="知识星球"/>
+        <img width="140" src="./images/zhishi.JPG" alt="知识星球"/>
     </a>
 </div>
+
+<br/>
+
+<details>
+
+<summary>🌟 GitHub Stats</summary>
+
+<img with="360" src="https://github-readme-stats.vercel.app/api?username=Epic-Deno&show_icons=truee&include_all_commits=true&theme=onedark&hide=prs" alt="Epic-Deno's github stats"/><br/>
+<img width="230" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Epic-Deno&layout=compact&show_icons=truee&include_all_commits=true&theme=onedark&card_width=230" alt="Epic-Deno's github stats"/>
+
+</details>
