@@ -45,23 +45,15 @@ Now I'm  a web frontend developer. -->
 
 <!-- [![Epic-Deno's github stats](https://github-readme-stats.vercel.app/api?username=Epic-Deno)](https://github.com/anuraghazra/github-readme-stats) -->
 
-##### GitHub Stats
-
-<div align="center">
-    <a href="https://github.com/Epic-Deno">
-        <img align="left" src="https://github-readme-stats.vercel.app/api?username=Epic-Deno&show_icons=truee&include_all_commits=true&theme=onedark&hide=prs" alt="Epic-Deno's github stats"/>
-    </a>
-    <a href="https://github.com/Epic-Deno">
-        <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Epic-Deno&layout=compact&show_icons=truee&include_all_commits=true&theme=onedark&card_width=230" alt="Epic-Deno's github stats"/>
-    </a>
-</div>
-
-<br/>
-
-<hr style="height:1px;border:none;border-top:1px solid #555555;" />
+<details>
+    <summary>🌟 GitHub Stats</summary>
+     <img align="left" src="https://github-readme-stats.vercel.app/api?username=Epic-Deno&show_icons=truee&include_all_commits=true&theme=onedark&hide=prs" alt="Epic-Deno's github stats"/>
+     <br/>
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Epic-Deno&layout=compact&show_icons=truee&include_all_commits=true&theme=onedark&card_width=230" alt="Epic-Deno's github stats"/>
+</details>
 
 ####  Buy me a coffee 
-
+<img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" style="height: 40px !important;width: 145px !important;"/>
 
 <div align="center">
  <a href="https://github.com/Epic-Deno">
@@ -74,10 +66,3 @@ Now I'm  a web frontend developer. -->
         <img align="left" width="140" src="./images/zhishi.JPG" alt="知识星球"/>
     </a>
 </div>
-
-<br/>
-
-
-
-
-
