@@ -56,8 +56,12 @@ Now I'm  a web frontend developer. -->
     </a>
 </div>
 
+<br/>
+
+<hr style="height:1px;border:none;border-top:1px solid #555555;" />
 
 ####  Buy me a coffee 
+
 
 <div align="center">
  <a href="https://github.com/Epic-Deno">
