@@ -21,7 +21,7 @@
 <!-- ======================================================================== -->
 <!-- 
 Now I'm  a web frontend developer. -->
-##### I'm proud of to be a web frontend developer, and I love any kind of frontend technology, i am now my wife's husband and father of the child.
+##### I'm proud to be a web frontend developer and passionate about all kinds of frontend technologies. I’m also a husband to my wife and a father to my child.
 ![profile views](https://komarev.com/ghpvc/?username=Epic-Deno&style=plastic)
 
 <!-- [![](https://img.shields.io/badge/-乐观开朗的逍遥子-E6162D?style=flat-square&labelColor=9D1620&logo=Sina-Weibo&logoColor=white)](https://weibo.com/ZZandBB?is_all=1#_loginLayer_1629041370172) -->
